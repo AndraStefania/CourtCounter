@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="juventus">Juventus</string>
+    <string name="goalsOne">0</string>
+    <string name="goal">Goal</string>
+    <string name="penaltyOne">0</string>
+    <string name="penalty">Penalty</string>
+    <string name="fc_bayern">FC Bayern München</string>
+    <string name="goalsTwo">0</string>
+    <string name="penaltyTwo">0</string>
+    <string name="reset">Reset</string>
+    <string name="yellowOne">0</string>
+    <string name="yellow_card">Yellow Card</string>
+    <string name="redOne">0</string>
+    <string name="red_card">Red Card</string>
+    <string name="yellowTwo">0</string>
+    <string name="redTwo">0</string>
+    <string name="image">soccer1</string>
+    <string name="teamone">teamone</string>
+    <string name="teamtwo">teamtwo</string>
+</resources>
